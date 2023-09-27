@@ -6,7 +6,10 @@ First, run the development server:
 
 To run this project locally, follow these steps:
 
+## Contact
+If you have any questions or need further assistance, please feel free to contact iyad Saadeh at iyaadsaadeh@gmail.com.
 
+```
 
 # Clone the repository to your local machine:
 git clone https://github.com/IyadSaadeh/Q-Pros-assignment.git
@@ -20,9 +23,4 @@ MONGODB_URI=<your_mongodb_uri>
 # Start the development server:
 npm run dev
 
-```
 
-
-
-## Contact
-If you have any questions or need further assistance, please feel free to contact iyad Saadeh at iyaadsaadeh@gmail.com.
